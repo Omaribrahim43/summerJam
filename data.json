@@ -1,0 +1,48 @@
+{
+    "volunter" :[
+    {"name":"Local Animal Shelter","time":"11am", "location":"Irbid,Eidon" , "days":"monday ,thusday" },
+       {"name":"Community Garden","time":"9am", "location":"Irbid,Eidon" , "days":"sunday ,friday"},
+        {"name":"Toy Drives","time":"2pm", "location":"Irbid,Eidon" , "days":"satarday ,wendsday"}
+        ],
+    "Physical Activity":[{
+        "name": "Local Swimming Lessons",
+        "time": "3pm",
+        "location": "Irbid, Eidon Pool",
+        "days": "Tuesday, Thursday"
+     },
+     {
+        "name": "Outdoor Adventure Group",
+        "time": "9am",
+        "location": "Eidon Park",
+        "days": "Sunday, Friday"
+     },
+     {
+        "name": "Yoga for Kids",
+        "time": "11am",
+        "location": "Irbid Yoga Studio",
+        "days": "Saturday"
+     }
+    ]
+    ,
+     "Mind": [
+        {
+           "name": "Math Enrichment Classes",
+           "time": "4pm",
+           "location": "Irbid Community Center",
+           "days": "Tuesday, Thursday"
+        },
+        {
+           "name": "Creative Math through Art",
+           "time": "2pm",
+           "location": "Eidon Youth Center",
+           "days": "Saturday"
+        },
+        {
+           "name": "STEAM Workshop: Math ",
+           "time": "10am",
+           "location": "Irbid Science Museum",
+           "days": "Sunday"
+        }
+     ]
+    
+    }
